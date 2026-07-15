@@ -20,6 +20,16 @@ A close view of the prototype scanning mechanism and sensor assembly.
 
 ![Prototype Close View](screenshots/close-view.png)
 
+### Circuit Schematic
+
+The following schematic shows the wiring used in the prototype. The SG90 servo and HC-SR04 ultrasonic sensor are powered from the Arduino Uno's 5V supply and share a common ground.
+
+- Servo signal: D9
+- HC-SR04 TRIG: D10
+- HC-SR04 ECHO: D11
+
+![Circuit Schematic](screenshots/schematic.png)
+
 ### Live 2D Environmental Scan
 
 The Arduino transmits measurements in the form:
