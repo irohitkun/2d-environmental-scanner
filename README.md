@@ -182,7 +182,8 @@ The scanner continuously sweeps in both directions.
 │   ├── close-view.png
 │   ├── live-scan.png
 │   ├── object-segmentation.png.png
-│   └── prototype.png
+│   ├── prototype.png
+│   └── schematic.png
 │
 ├── .gitignore
 ├── requirements.txt
